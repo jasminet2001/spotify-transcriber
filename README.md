@@ -15,7 +15,7 @@ A simple Python tool that transcribes podcast episodes using Faster-Whisper.
 Clone the repository:
 
 ```bash
-git clone <this-repo-url>
+git clone https://github.com/jasminet2001/spotify-transcriber.git
 cd spotify-podcast-transcriber
 ```
 
